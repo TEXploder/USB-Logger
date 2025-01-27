@@ -39,7 +39,7 @@
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/usb-logger.git
+   git clone https://github.com/texploder/usb-logger.git
    cd usb-logger
    ```
 
@@ -183,10 +183,10 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ## Contact
 
 For any inquiries or support, please contact:
-
+- Best Choice - **DISCORD:** [Join Now](https://discord.texploder.com)
 - **Name:** TEXploder
 - **Email:** business@texploder.com
-- **GitHub:** [yourusername](https://github.com/texploder)
+- **GitHub:** [TEXploder](https://github.com/texploder)
 
 ---
 
