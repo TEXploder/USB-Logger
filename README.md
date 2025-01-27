@@ -1,7 +1,5 @@
 # USB Logger
 
-![USB Logger Logo](https://texploder.com/logo.png) <!-- Replace with actual logo if available -->
-
 ## Table of Contents
 
 - [Overview](#overview)
